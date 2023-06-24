@@ -5,7 +5,7 @@ fun main() {
     print(" рублей составит коммиси€")
 }
 val errorDay = -1 // Ћимит в день
-val errorMon = -2 // Ћимит в мес€ц
+val errorMon = -2 // Ћимит в мес€ц //
 val text = "ѕриложение подчета коммисии"
 fun amountFee(
     amount: Int,
